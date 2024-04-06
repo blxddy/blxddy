@@ -1,5 +1,8 @@
 # Hi, I'm nin, also known as ninsaccplayzYT.
 
+- Web developer
+- Discord bot developer
+
 ## Discord
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/569352110991343616?idleMessage=I'm%20not%20doing%20anything%20currently...&showDisplayName=true)](https://discord.com/users/569352110991343616)
