@@ -15,4 +15,4 @@
 - idek at this point theres too many 😭
 
 ## Some projects I'm contributing to currently
-= N/A
+- N/A
