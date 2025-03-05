@@ -1,4 +1,4 @@
-# Hi, I'm nin, also known as ninsaccplayzYT.
+# Hi, I'm blxddy.
 
 - Web developer
 - Discord bot developer
@@ -7,13 +7,12 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/569352110991343616?idleMessage=I'm%20not%20doing%20anything%20currently...&showDisplayName=true)](https://discord.com/users/569352110991343616)
 
-## GitHub Stats
+## GitHub Streak
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ninsacc&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ninsaccplayzyt&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ## Some projects I'm working on
-- Websites, like one for [Bee Swarm Simulator Remix](https://bssr.xyz)
+- idek at this point theres too many 😭
 
 ## Some projects I'm contributing to currently
-- [SudoBot](https://github.com/onesoft-sudo/sudobot)
 
