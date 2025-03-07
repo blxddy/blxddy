@@ -2,6 +2,7 @@
 ![](https://cdn.pfps.gg/banners/5724-late-night.gif)
 
 I run a hosting company, you should come check it out.
+
 [![BSSR Nodes](https://cdn.discordapp.com/icons/1244976723800358994/c36cecaceb4899120e707b4ab77e4686.webp?size=128&format=webp)](https://discord.com/users/569352110991343616)
 
 ## Discord
