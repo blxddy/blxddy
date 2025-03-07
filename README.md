@@ -1,5 +1,4 @@
 ### Hiya, I'm blxddy
-![](https://cdn.pfps.gg/banners/5724-late-night.gif)
 
 I run a hosting company, you should come check it out.
 
